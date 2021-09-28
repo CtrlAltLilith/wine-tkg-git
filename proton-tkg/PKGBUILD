@@ -71,6 +71,7 @@ makedepends=(
     'vulkan-headers'        'jack2'
     'lib32-jack2'           'python-pefile'
     'rust'                  'lib32-rust-libs'
+    'cmake'
     $_user_makedeps
 )
 optdepends=(
